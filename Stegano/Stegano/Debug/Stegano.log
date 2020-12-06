@@ -1,0 +1,4 @@
+﻿  Decode.cpp
+G:\Documents\6 semester\Steganography\Lab (Stegano)\Stegano\Stegano\Decode.cpp(34,22): warning C4018: '<': signed/unsigned mismatch
+G:\Documents\6 semester\Steganography\Lab (Stegano)\Stegano\Stegano\Decode.cpp(47,22): warning C4018: '<': signed/unsigned mismatch
+  Stegano.vcxproj -> G:\Documents\6 semester\Steganography\Lab (Stegano)\Stegano\Debug\Stegano.exe
